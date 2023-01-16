@@ -1,0 +1,132 @@
+body{
+    background-color: EFEFF1;
+}
+
+/* LOGO */
+.logo{
+    position: absolute;
+    width: 37.03px;
+    height: 51.16px;
+    left: 117.03px;
+    top: 38px;
+}
+
+.hamburger{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 1320px;
+    top: 54px;
+}
+
+/* H1 */
+.name{
+    position: absolute;
+    width: 493px;
+    height: 108px;
+    left: 159px;
+    top: 232.47px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 97.4507px;
+    line-height: 110.4%;
+
+    letter-spacing: -0.025em;
+    color: #212121;
+}
+
+/* Paragraph */
+.par{
+    position: absolute;
+    width: 732.45px;
+    height: 301px;
+    left: 166.63px;
+    top: 382.94px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26.1695px;
+    line-height: 55px;
+    letter-spacing: 0.08em;
+    color: #393939;
+}
+
+/* Check my work */
+.check{
+    position: absolute;
+    width: 277px;
+    height: 51px;
+    left: 200.43px;
+    top: 784.21px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26.1695px;
+    line-height: 50px;
+    letter-spacing: 0.08em;
+    color: #212121;
+}
+
+/* Created */
+.by{
+    position: absolute;
+    width: 86px;
+    height: 29px;
+    left: 10843px;
+    top: 866px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.754px;
+    line-height: 28px;
+ 
+    letter-spacing: 0.08em;
+    color: #000000;
+}
+
+.human{
+    position: absolute;
+    width: 291.3px;
+    height: 625.63px;
+    left: 959.81px;
+    top: 216px;
+}
+
+.facebook{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1305px;
+    top: 322px;
+}
+
+.twitter{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1305px;
+    top: 397px;
+}
+
+.behance{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1305px;
+    top: 472px;
+}
+
+/* #rectangle { */
+    position: absolute;
+    width: 344.56px;
+    height: 65.42px;
+    left: 166.63px;
+    top: 776.58px;
+    
+    background: #212121;
+}
