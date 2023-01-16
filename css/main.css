@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     background-color: EFEFF1;
 }
 
@@ -73,20 +74,20 @@ body{
 
 /* Created */
 .by{
-    position: absolute;
-    width: 86px;
-    height: 29px;
-    left: 677px;
-    top: 900px;
+   text-align: center;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14.754px;
-    line-height: 28px;
- 
-    letter-spacing: 0.08em;
-    color: #000000;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14.754px;
+   line-height: 28px;
+
+   letter-spacing: 0.08em;
+   color: #000000;
+
+   position: relative;
+   top: 900px;
+
 }
 
 .human{
