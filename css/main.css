@@ -1,10 +1,11 @@
 body{
-    margin: 0;
+    padding-left: 80px;
     background-color: EFEFF1;
 }
 
 /* LOGO */
 .logo{
+    align-items: center;
     position: absolute;
     width: 37.03px;
     height: 51.16px;
@@ -36,6 +37,7 @@ body{
 
     letter-spacing: -0.025em;
     color: #212121;
+    padding-bottom: 60px;
 }
 
 /* Paragraph */
@@ -45,7 +47,7 @@ body{
     height: 301px;
     left: 166.63px;
     top: 382.94px;
-
+    padding-top: 60px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
